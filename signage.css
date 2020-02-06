@@ -1,0 +1,38 @@
+    body {
+	    background-color: #0c52a6 !important;
+    }
+	
+	.loader {
+	}
+	
+	.full-sized {
+		background-color: #0c52a6 !important;
+	}
+	
+	.agendaItem__image {
+		max-width: 400px !important;
+	}
+	
+	.agendaItem__title {
+		font-size: 60px !important;
+	}
+	
+	.agendaItem__when {
+		font-size: 42px !important;
+	}
+	
+	.d-text--preview {
+		font-size: 1.5em !important;
+	}
+	
+	.d-text.agendaItem__where {
+		font-size: 36px !important;
+	}
+	
+	.eventTags__tag:before {
+		font-size: 36px !important;
+	}
+	
+	.eventTags__text {
+		font-size: 36px !important;
+	}
